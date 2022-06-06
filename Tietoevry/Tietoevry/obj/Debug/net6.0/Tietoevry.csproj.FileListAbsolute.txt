@@ -1,0 +1,17 @@
+C:\Users\Arnas\Documents\GitHub\Tietoevry-task\Tietoevry\Tietoevry\obj\Debug\net6.0\Tietoevry.csproj.AssemblyReference.cache
+C:\Users\Arnas\Documents\GitHub\Tietoevry-task\Tietoevry\Tietoevry\obj\Debug\net6.0\Tietoevry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arnas\Documents\GitHub\Tietoevry-task\Tietoevry\Tietoevry\obj\Debug\net6.0\Tietoevry.AssemblyInfoInputs.cache
+C:\Users\Arnas\Documents\GitHub\Tietoevry-task\Tietoevry\Tietoevry\obj\Debug\net6.0\Tietoevry.AssemblyInfo.cs
+C:\Users\Arnas\Documents\GitHub\Tietoevry-task\Tietoevry\Tietoevry\obj\Debug\net6.0\Tietoevry.csproj.CoreCompileInputs.cache
+C:\Users\Arnas\Documents\GitHub\Tietoevry-task\Tietoevry\Tietoevry\bin\Debug\net6.0\Tietoevry.exe
+C:\Users\Arnas\Documents\GitHub\Tietoevry-task\Tietoevry\Tietoevry\bin\Debug\net6.0\Tietoevry.deps.json
+C:\Users\Arnas\Documents\GitHub\Tietoevry-task\Tietoevry\Tietoevry\bin\Debug\net6.0\Tietoevry.runtimeconfig.json
+C:\Users\Arnas\Documents\GitHub\Tietoevry-task\Tietoevry\Tietoevry\bin\Debug\net6.0\Tietoevry.dll
+C:\Users\Arnas\Documents\GitHub\Tietoevry-task\Tietoevry\Tietoevry\bin\Debug\net6.0\ref\Tietoevry.dll
+C:\Users\Arnas\Documents\GitHub\Tietoevry-task\Tietoevry\Tietoevry\bin\Debug\net6.0\Tietoevry.pdb
+C:\Users\Arnas\Documents\GitHub\Tietoevry-task\Tietoevry\Tietoevry\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Arnas\Documents\GitHub\Tietoevry-task\Tietoevry\Tietoevry\obj\Debug\net6.0\Tietoevry.csproj.CopyComplete
+C:\Users\Arnas\Documents\GitHub\Tietoevry-task\Tietoevry\Tietoevry\obj\Debug\net6.0\Tietoevry.dll
+C:\Users\Arnas\Documents\GitHub\Tietoevry-task\Tietoevry\Tietoevry\obj\Debug\net6.0\ref\Tietoevry.dll
+C:\Users\Arnas\Documents\GitHub\Tietoevry-task\Tietoevry\Tietoevry\obj\Debug\net6.0\Tietoevry.pdb
+C:\Users\Arnas\Documents\GitHub\Tietoevry-task\Tietoevry\Tietoevry\obj\Debug\net6.0\Tietoevry.genruntimeconfig.cache

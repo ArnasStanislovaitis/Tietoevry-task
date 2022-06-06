@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "apjsYVsNLUnxCHb6TNV6Qc/rpS9hwo1Aekk513tOhzqNqOP5aLtgGgfQbsNCs9MgEJCF6I0EFUrn++76x/MpxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Arnas\\Documents\\GitHub\\Tietoevry-task\\Tietoevry\\Tietoevry\\Tietoevry.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arnas\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
